@@ -1,0 +1,45 @@
+﻿<Window x:Name="window" x:Class="crosswordGenerator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:crosswordGenerator"
+        mc:Ignorable="d"
+        Title="crosswordGen_1.0" Height="600" Width="525">
+    <Grid>
+        <Button x:Name="btnAns" Content="ENTER ANSWERS" HorizontalAlignment="Left" Margin="175,492,0,0" VerticalAlignment="Top" Width="159" Click="btnAns_Click"/>
+        <TextBox x:Name="up3" HorizontalAlignment="Left" Height="23" Margin="55,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="up4" HorizontalAlignment="Left" Height="23" Margin="55,164,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="up5" HorizontalAlignment="Left" Height="23" Margin="55,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="up6" HorizontalAlignment="Left" Height="23" Margin="55,246,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="up7" HorizontalAlignment="Left" Height="23" Margin="55,290,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="up8" HorizontalAlignment="Left" Height="23" Margin="55,328,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="up9" HorizontalAlignment="Left" Height="23" Margin="55,369,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="up10" HorizontalAlignment="Left" Height="23" Margin="55,410,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="up1" HorizontalAlignment="Left" Height="23" Margin="55,51,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="up2" HorizontalAlignment="Left" Height="23" Margin="55,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" />
+        <TextBox x:Name="down3" HorizontalAlignment="Left" Height="23" Margin="286,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="down4" HorizontalAlignment="Left" Height="23" Margin="286,164,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="down5" HorizontalAlignment="Left" Height="23" Margin="286,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="down6" HorizontalAlignment="Left" Height="23" Margin="286,246,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="down7" HorizontalAlignment="Left" Height="23" Margin="286,290,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="down8" HorizontalAlignment="Left" Height="23" Margin="286,328,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="down9" HorizontalAlignment="Left" Height="23" Margin="286,369,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="down10" HorizontalAlignment="Left" Height="23" Margin="286,410,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="down1" HorizontalAlignment="Left" Height="23" Margin="286,51,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="down2" HorizontalAlignment="Left" Height="23" Margin="286,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <Label x:Name="lblUp" Content="UP - CLUES" HorizontalAlignment="Left" Margin="55,9,0,0" VerticalAlignment="Top" Width="120" FontSize="20" Background="Black" Foreground="White"/>
+        <Label x:Name="lblDown" Content="DOWN - CLUES" HorizontalAlignment="Left" Margin="286,9,0,0" VerticalAlignment="Top" Width="147" FontSize="20" Background="Black" Foreground="White"/>
+        <Label Content="1." HorizontalAlignment="Left" Margin="10,42,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18" Height="32"/>
+        <Label Content="2." HorizontalAlignment="Left" Margin="10,80,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18" Height="32"/>
+        <Label Content="3." HorizontalAlignment="Left" Margin="10,125,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18" Height="32"/>
+        <Label Content="4." HorizontalAlignment="Left" Margin="10,157,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18" Height="32"/>
+        <Label Content="5." HorizontalAlignment="Left" Margin="10,196,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18" Height="32"/>
+        <Label Content="6." HorizontalAlignment="Left" Margin="10,237,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18" Height="32"/>
+        <Label Content="7." HorizontalAlignment="Left" Margin="10,281,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18" Height="32"/>
+        <Label Content="8." HorizontalAlignment="Left" Margin="10,319,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18" Height="32"/>
+        <Label Content="9." HorizontalAlignment="Left" Margin="10,369,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18" Height="32"/>
+        <Label Content="10." HorizontalAlignment="Left" Margin="10,410,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18" Height="32"/>
+
+    </Grid>
+</Window>

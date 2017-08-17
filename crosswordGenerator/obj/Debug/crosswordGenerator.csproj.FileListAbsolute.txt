@@ -1,0 +1,13 @@
+c:\users\david\documents\visual studio 2017\Projects\crosswordGenerator\crosswordGenerator\obj\Debug\MainWindow.g.cs
+c:\users\david\documents\visual studio 2017\Projects\crosswordGenerator\crosswordGenerator\obj\Debug\App.g.cs
+c:\users\david\documents\visual studio 2017\Projects\crosswordGenerator\crosswordGenerator\obj\Debug\crosswordGenerator_MarkupCompile.cache
+c:\users\david\documents\visual studio 2017\Projects\crosswordGenerator\crosswordGenerator\obj\Debug\crosswordGenerator_MarkupCompile.lref
+c:\users\david\documents\visual studio 2017\Projects\crosswordGenerator\crosswordGenerator\bin\Debug\crosswordGenerator.exe.config
+c:\users\david\documents\visual studio 2017\Projects\crosswordGenerator\crosswordGenerator\bin\Debug\crosswordGenerator.exe
+c:\users\david\documents\visual studio 2017\Projects\crosswordGenerator\crosswordGenerator\bin\Debug\crosswordGenerator.pdb
+c:\users\david\documents\visual studio 2017\Projects\crosswordGenerator\crosswordGenerator\obj\Debug\MainWindow.baml
+c:\users\david\documents\visual studio 2017\Projects\crosswordGenerator\crosswordGenerator\obj\Debug\crosswordGenerator.g.resources
+c:\users\david\documents\visual studio 2017\Projects\crosswordGenerator\crosswordGenerator\obj\Debug\crosswordGenerator.Properties.Resources.resources
+c:\users\david\documents\visual studio 2017\Projects\crosswordGenerator\crosswordGenerator\obj\Debug\crosswordGenerator.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2017\Projects\crosswordGenerator\crosswordGenerator\obj\Debug\crosswordGenerator.exe
+c:\users\david\documents\visual studio 2017\Projects\crosswordGenerator\crosswordGenerator\obj\Debug\crosswordGenerator.pdb
